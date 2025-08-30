@@ -1,0 +1,3 @@
+@echo off
+echo Starting Amazon Kidz React Application...
+npm start
